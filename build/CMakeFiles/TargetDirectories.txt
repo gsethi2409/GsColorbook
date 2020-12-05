@@ -1,0 +1,3 @@
+/home/gsethi2409/Personal-Projects/image-processing/GsColorbook/build/CMakeFiles/rebuild_cache.dir
+/home/gsethi2409/Personal-Projects/image-processing/GsColorbook/build/CMakeFiles/edit_cache.dir
+/home/gsethi2409/Personal-Projects/image-processing/GsColorbook/build/CMakeFiles/colorbook.dir
