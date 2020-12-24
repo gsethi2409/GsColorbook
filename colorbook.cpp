@@ -13,8 +13,7 @@ class ColorBook{
         ColorBook(Mat img);
         Mat preblur(Mat img, double sigmaX, double sigmaY);
         Mat normalize_image(Mat img);
-        Mat color_quantize(Mat img);
-    
+        Mat color_quantize(Mat img);  
 };
 
 ColorBook::ColorBook(Mat img)
