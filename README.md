@@ -38,6 +38,7 @@ self.color_centroids = 10
 ## What's Next
 
 * Command-line arguments
+* C++ implementation
 * Experiment with more advanced clustering algorithms
 * Option to choose beginner-advanced level coloring
 * Hopefully a nice GUI!
