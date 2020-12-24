@@ -5,8 +5,9 @@ This is a hobby project that generates a coloring book image along with a color 
 It uses k-means clustering to find color centroids and consequently, generates a colorized image. It then performs Canny Edge Detection to generate an outlined color book image. A palette indicating the color centroids is also created.
 
 ## Results
+![](results/result8.png)
+![](results/result5.png)
 ![](results/result1.png)
-![](results/result2.png)
 
 ## Prerequisites
 * Python3 [3.8.5]
